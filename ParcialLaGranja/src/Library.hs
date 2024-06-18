@@ -134,7 +134,7 @@ mejoraPeso animal (actividad1:actividades)
 
 animalesConNombreFalopa :: [Animal] -> [Animal]
 animalesConNombreFalopa animales = take 3 (filter nombreFalopa animales)
-
+--hola
 {-Si le pasaramos una cantidad infinita de animales, Haskell podria ejecutar la funcion correctamente,
 ya que por Lazy Evaluation, una vez tomados los primero 3 animales que cumplen la condicion, la funcion 
 devolveria dichos 3 animales sin la necesidad de continuar avanzando con la lista.-}
