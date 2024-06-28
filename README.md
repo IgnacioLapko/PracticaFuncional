@@ -1,1 +1,1 @@
-Practicas de Parciales de Paradigma Funcional
+Practica de Parciales de Paradigma Funcional
